@@ -53,6 +53,4 @@ Intel & Samsung emerge as strong brands driving revenue growth.
 
 
 # Tech Sales Snapshort 
-![Tech Sales Dashboard](assets/tech_sales_snapshot.png)
-
-## Repository Structure
+[![Tech Sales Dashboard](assets/tech_sales_snapshot.png)](https://github.com/golukumar63/Tech-Sales-Dashboard/blob/main/Tech%20Sales%20Snapshort.png)
